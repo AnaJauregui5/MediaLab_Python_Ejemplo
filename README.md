@@ -1,2 +1,5 @@
 # MediaLab_Python_Ejemplo
-This is a repo for python course in Media/Visual faculty 
+This is a repo for Python course in Media/Visual faculty 
+
+Estudiantes
+1. Ana Jauregui
